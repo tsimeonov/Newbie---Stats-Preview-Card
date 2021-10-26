@@ -1,5 +1,7 @@
 # Newbie - Stats Preview Card
 
+## Live View - https://tsimeonov.github.io/Newbie---Stats-Preview-Card/
+
 ## Layout
 
 The designs were created to the following widths:
