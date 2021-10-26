@@ -1,37 +1,37 @@
-# Newbie - Stats Preview Card
+# Stats Preview Card
 
-## Live View - https://tsimeonov.github.io/Newbie---Stats-Preview-Card/
+### The challenge
 
-## Layout
+Users should be able to:
 
-The designs were created to the following widths:
+- View the optimal layout for the site depending on their device's screen size
 
-- Media Queries : 720px, 967px and 1200px
+### Screenshot
 
-## Colors
+![](./design/desktop-design.jpg)
 
-### Primary
+### Links
 
-- Very dark purple (body background): rgb(12, 13, 25)
-- Dark desaturated puple (card background): rgb(24, 22, 48)
-- Soft pink (span element): rgb(152, 82, 207)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Neutral
+## My process
 
-- White (main heading, paragraphs): #fff
-- Slightly transparent white (info paragraph): rgb(255, 255, 255, 0.521)
+### Built with
 
-## Typography
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- SCSS
 
-### H1
+### What I learned
 
-- Font size: 56px
-- Paragraph: 20px
+- Using grid for layout
+- Using SCSS
 
-### Font
+## Author
 
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
-- Weights: 400, 700
+- Todor Simeonov
 
-- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
-- Weights: 400
